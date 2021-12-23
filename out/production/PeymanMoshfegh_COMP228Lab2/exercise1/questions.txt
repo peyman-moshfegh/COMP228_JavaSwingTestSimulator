@@ -1,0 +1,25 @@
+What is the cmd command for the Java compiler?
+javac
+javacom
+javacompiler
+all
+Java "==" operator compares Strings by ____?
+reference
+value
+both
+neither
+Which Java class is used to read the user input?
+java.util.Scanner
+java.util.IO
+java.lang.Scanner
+java.lang.IO
+JVM stands for ____?
+Java Virtual Machine
+Java Visual Methodology
+Java Verification Mechanism
+Java Validation Method
+JDK stands for?
+Java Development Kit
+Java Driver Kit
+Java Decompression Kit
+Java Distribution Kit
